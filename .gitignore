@@ -7,6 +7,7 @@
 !*.hpp
 !*.md
 !*.txt
+!*.py
 !.gitignore
 
 # ===== VSCode 自动配置 =====
